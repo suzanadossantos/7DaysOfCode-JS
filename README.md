@@ -1,4 +1,4 @@
 # 7DaysOfCode-JS
 Desafio de lógica com JavaScript criado pela Alura
 
-🔗 Desafio 2 : 
+<p>🔗 Desafio 2 :  <a href="https://suzanadossantos.github.io/7DaysOfCode/desafio2/">Link</a> </p>
