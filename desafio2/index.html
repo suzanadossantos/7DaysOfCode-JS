@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Desafio 2</h1>
+    <form action="" method="get">
+        <fieldset>
+            <legend>Dados pessoais</legend>
+
+            <label for="inome">Nome:</label>
+            <input type="text" name="nome" id="inome" autocomplete="name" minlength="5" maxlength="20" required><br><br>
+
+            <label for="iidade">Idade:</label>
+            <input type="number" name="idade" id="iidade" minlength="1" maxlength="2" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Programação</legend>
+
+            <label for="iling">Linguagem de programação que você está estudando:</label>
+            <input type="text" name="ling" id="iling" required><br><br>
+
+            <label for="iperg">Você gosta de estudar JavaScript?</label><br>
+
+            <input type="radio" name="perg" id="iperg1" value="Sim" checked>
+            <label for="iperg1">Sim</label>
+            
+            <input type="radio" name="perg" id="iperg2" value="Não">
+            <label for="iperg2">Não</label>
+        </fieldset>
+
+        <p>
+            <input type="submit" value="Enviar" onclick="enviar()">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+
+    <div id="res">
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
