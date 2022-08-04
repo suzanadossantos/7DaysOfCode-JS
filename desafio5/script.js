@@ -1,6 +1,6 @@
 alert("Sua lista de compras")
 
-var res = prompt("Você desaja adicionar comida na sua lista?")
+var res = prompt("Você deseja adicionar comida na sua lista?")
 
 var frutas = ['']
 var bebidas = ['']
