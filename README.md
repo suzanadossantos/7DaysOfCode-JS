@@ -6,3 +6,4 @@ Desafio de lógica com JavaScript criado pela Alura
 <p>🔗 Desafio 3 :  <a href="https://suzanadossantos.github.io/7DaysOfCode-JS/desafio3/index.html">Link</a> </p>
 <p>🔗 Desafio 4 :  <a href="https://suzanadossantos.github.io/7DaysOfCode-JS/desafio4/index.html">Link</a> </p>
 <p>🔗 Desafio 5 :  <a href="https://suzanadossantos.github.io/7DaysOfCode-JS/desafio5/index.html">Link</a> </p>
+<p>🔗 Desafio 6 :  <a href="https://suzanadossantos.github.io/7DaysOfCode-JS/desafio6/index.html">Link</a> </p>
